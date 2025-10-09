@@ -1,0 +1,23 @@
+site_name: My Docs
+theme:
+  name: material
+  font:
+    text: Arial
+    code: Red Hat Mono
+  palette:
+    # Dark mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Dark mode
+    # Light mode
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Light mode
+
+# Navigation
+nav:
+  - Início: index.md
+  - Benchmarks:
+      - Silos: benchmarks/benchmark_silos.md
