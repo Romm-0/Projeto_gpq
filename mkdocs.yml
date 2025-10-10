@@ -21,3 +21,4 @@ nav:
   - Início: index.md
   - Benchmarks:
       - Silos: benchmarks/benchmark_silos.md
+  - Identificação e Validação do Problema: problema.md
