@@ -21,4 +21,5 @@ nav:
   - Início: index.md
   - Benchmarks:
       - Silos: benchmarks/benchmark_silos.md
+      - Controladores: benchmarks/benchmark_controladores.md
   - Identificação e Validação do Problema: problema.md
