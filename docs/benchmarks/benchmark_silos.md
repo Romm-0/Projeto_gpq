@@ -105,6 +105,30 @@
 
 - Sem certificação
 
+---
+
+## Silo galvanizado Big Dutchman
+
+**Vendedores no Brasil:**
+
+- [Big Dutchman](https://bigdutchman.com.br/produto/silo-77/)
+
+**Prós:**
+
+- Ponta cônica permite um melhor escoamento da ração
+
+- Topo cônico permite uma melhor utilização do espaço interno
+
+- Cone direcional evita a formação de ocos no conteúdo do silo
+
+- Porta de acesso para limpeza
+
+- Permite descarregamento manual em caso da falha da parte automática
+
+**Contras:**
+
+- Sem certificação
+
 ## Visão geral
 
 | Marca | Capacidade (toneladas) | Material | Formato | Valor |
@@ -113,3 +137,4 @@
 | Plasson | 2,68 a 26,06 | Aço galvanizado | Cilíndrico, ponta cônica e topo arredondado | - |
 | Nutrimec | 3,25 a 21,5 | Chapa de aço | Cilíndrico ou quadrado, ponta cônica e topo reto | - |
 | Morelatto | 0,65 a 37,6 | Aço galvanizado | Cilíndrico, ponta cônica e topo arredondado | - |
+| Big Dutchman| 2,65 a 27,69 | Aço galvanizado | Cilíndrico, ponta cônica e topo arredondado | - |
