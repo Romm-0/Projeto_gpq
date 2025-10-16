@@ -1,8 +1,3 @@
-﻿## Sumário
-
-
----
-
 ## Silos galvanizados ROXELL
 
 **Vendedores no Brasil:**
@@ -18,12 +13,10 @@
 - Alta resistência para áreas com ventos de velocidade até 30 m/s (norma da Alemanha, Typenprüfung)
 - Opção de enchimento pneumático ou mecânico
 - Teto cônico permite um melhor uso do espaço interno
+- 5 anos de garantia
 
 **Contras:**
-- Será de acordo com o que os outros têm que esse não tem
-
-**Não sei**:
-- 5 anos de garantia
+- 
 
 ---
 
@@ -43,9 +36,6 @@
 **Contras:**
 - Sem certificação
 
-**Não sei**:
-- .
-
 ---
 
 ## Silos de chapa de aço Nutrimec
@@ -61,26 +51,20 @@
 **Contras:**
 - Sem certificação
 - Teto reto é menos eficiente no uso do espaço interno
-
-**Não sei**:
-- Modelos entre 3 a 21,5 T de armazenamento
+- Chapa de aço costuma ter uma menor durabilidade contra corrosão do que os galvanizados
 
 ---
 
 ## Silo galvanizado Morelatto
 
 **Vendedores no Brasil:**
-- [Nutrimec](https://nutrimec.ind.br/silos-para-racao)
+- [Morelatto](https://morelatto.com.br/produtos/sistema-de-armazenamento-de-racao/)
 
 **Prós:**
 - Final arredondado garante melhor escoamento da ração
 - Teto cônico permite um melhor uso do espaço interno
 - Possui um sistema hydroshield que fornece proteção contra água da chuva
-- 
+- Porta de acesso superior para a limpeza
 
 **Contras:**
-- Dificuldade em obter informações
 - Sem certificação
-
-**Não sei**:
-- Modelos até 37,6 T de armazenamento
