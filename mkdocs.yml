@@ -22,4 +22,6 @@ nav:
   - Benchmarks:
       - Silos: benchmarks/benchmark_silos.md
       - Controladores: benchmarks/benchmark_controladores.md
+      - Ventilação: benchmarks/benchmark_ventilacao.md
+      - Sensores de Temperatura: benchmarks/benchmark_sensores.md
   - Identificação e Validação do Problema: problema.md
