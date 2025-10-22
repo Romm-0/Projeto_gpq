@@ -21,6 +21,7 @@ nav:
   - Início: index.md
   - Benchmarks:
       - Silos: benchmarks/benchmark_silos.md
+      - Misturadores de ração: benchmarks/benchmark_misturador_racao.md
       - Controladores: benchmarks/benchmark_controladores.md
       - Ventilação: benchmarks/benchmark_ventilacao.md
       - Sensores de Temperatura: benchmarks/benchmark_sensores.md
