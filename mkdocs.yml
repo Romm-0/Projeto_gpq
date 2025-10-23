@@ -26,5 +26,6 @@ nav:
       - Ventilação: benchmarks/benchmark_ventilacao.md
       - Iluminação: benchmarks/benchmark_iluminacao.md
       - Sensores de Temperatura: benchmarks/benchmark_sensores.md
+      - Sensor de Gás: benchmarks/benchmark_sensor_gas.md
   - Identificação e Validação do Problema: problema.md
   - Cronograma: cronograma.md
