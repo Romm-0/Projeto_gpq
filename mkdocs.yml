@@ -27,3 +27,4 @@ nav:
       - Iluminação: benchmarks/benchmark_iluminacao.md
       - Sensores de Temperatura: benchmarks/benchmark_sensores.md
   - Identificação e Validação do Problema: problema.md
+  - Cronograma: cronograma.md
