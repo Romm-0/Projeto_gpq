@@ -24,5 +24,6 @@ nav:
       - Misturadores de ração: benchmarks/benchmark_misturador_racao.md
       - Controladores: benchmarks/benchmark_controladores.md
       - Ventilação: benchmarks/benchmark_ventilacao.md
+      - Iluminação: benchmarks/benchmark_iluminacao.md
       - Sensores de Temperatura: benchmarks/benchmark_sensores.md
   - Identificação e Validação do Problema: problema.md
