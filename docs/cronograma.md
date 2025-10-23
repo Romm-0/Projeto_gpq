@@ -5,13 +5,13 @@ O cronograma foi criado para registrar de forma estruturada todas as atividades 
 </div></br>
 
 <p align="center">
-  <img src="./assets/cronograma.png" alt="Planilha do cronograma" width="700"/>
+  <img src="https://raw.githubusercontent.com/Romm-0/Projeto_gpq/main/docs/assets/cronograma.png" alt="Planilha do cronograma" width="700"/>
   <br/>
   <em>Figura 1 – Planilha do cronograma</em>
 </p>
 
 <p align="center">
-  <img src="./assets/cronograma_legenda.png" alt="Legenda do cronograma" width="700"/>
+  <img src="https://raw.githubusercontent.com/Romm-0/Projeto_gpq/main/docs/assets/cronograma_legenda.png" alt="Legenda do cronograma" width="700"/>
   <br/>
   <em>Figura 2 – Legenda</em>
 </p>
