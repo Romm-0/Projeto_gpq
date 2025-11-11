@@ -32,7 +32,7 @@
 
 ---
 
-## Controlador Big Dutchman (R$ 6.000 a R$ 16.000)
+## Controlador Big Dutchman 
 
 **Vendedores no Brasil:**
 
@@ -81,7 +81,7 @@
 
 - Solução de integração depende do BFN fusion, limitando as possibilidades de integração
 
-### Vento III
+### Vento III (R$ 6.000 a R$ 16.000)
 
 **Especificações:**
 
