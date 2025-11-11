@@ -1,4 +1,4 @@
-﻿## Controlador Roxell
+﻿## Controlador Roxell (R$ 18.000 a R$ 55.000)
 
 **Vendedores no Brasil:**
 
@@ -32,7 +32,7 @@
 
 ---
 
-## Controlador Big Dutchman
+## Controlador Big Dutchman (R$ 6.000 a R$ 16.000)
 
 **Vendedores no Brasil:**
 
@@ -44,7 +44,7 @@
 
 - Vento III (climatização)
 
-### ViperTouch (considerando a versão full growing)
+### ViperTouch (considerando a versão full growing) (R$ 15.000 a R$ 28.000) 
 
 **Especificações:** 
 
