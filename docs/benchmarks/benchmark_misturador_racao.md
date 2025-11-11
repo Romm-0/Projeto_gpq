@@ -106,11 +106,12 @@ Contras:
 * O alto nível de tecnologia e acabamento, implica em um custo de aquisição superior.  
 * A ausência de preço explícito no catálogo exige uma solicitação de orçamento, atrasando a etapa de estimativa detalhada de custos.
 
-| Marca | Capacidade(máx) | Material | Formato/Tipo de mistura | Valor |
+| Marca | Capacidade (máx) | Material | Formato/Tipo de mistura | Valor |
 | :---- | :---- | :---- | :---- | :---- |
-| **Nutrimec** | 3.000kg ou \~ 5 m^3 | Aço Carbono / Aço Inox (Mist. Y) | Vertical (Helicoidal) e Horizontal | Sob Consulta |
-| **Branorte** | 8.000kg ou 13 m^3 | Chapa Galvanizada / Aço Inox | Vertical e Horizontal | Sob Consulta |
-| **MFW Máquinas** | 9.000kg ou \~15 m^3 | Estrutura de Aço Carbono / Bojo Polietileno | Vertical ($\\text{MRO}$ e $\\text{Convencional}$) | Sob Consulta |
-| **Consolid** | 20.000 Litros (Horizontal Intensivo) | Aço Carbono / Aço Inox Eletropolido | Zona Fluidizada, Horizontal Intensivo, Vertical Silo | Sob Consulta |
-| **Casale** | 35m^3 ou \~17t | Aço Carbono / Opção Aço Inox | Vertical (Vertimix) e Rotor/Horizontal (Rotormix) | Sob Consulta |
+| **Nutrimec** | 3.000kg ou ~5 m³ | Aço Carbono / Aço Inox (Mist. Y) | Vertical (Helicoidal) e Horizontal | R$ 30.000 a R$ 80.000 |
+| **Branorte** | 8.000kg ou 13 m³ | Chapa Galvanizada / Aço Inox | Vertical e Horizontal | R$ 70.000 a R$ 150.000 |
+| **MFW Máquinas** | 9.000kg ou ~15 m³ | Estrutura de Aço Carbono / Bojo Polietileno | Vertical (MRO e Convencional) | R$ 90.000 a R$ 180.000 |
+| **Consolid** | 20.000 Litros (Horizontal Intensivo) | Aço Carbono / Aço Inox Eletropolido | Zona Fluidizada, Horizontal Intensivo, Vertical Silo | R$ 120.000 a R$ 300.000 |
+| **Casale** | 35m³ ou ~17t | Aço Carbono / Opção Aço Inox | Vertical (Vertimix) e Rotor/Horizontal (Rotormix) | R$ 200.000 a R$ 400.000+ |
+
 
