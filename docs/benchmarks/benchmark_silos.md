@@ -131,10 +131,10 @@
 
 ## Visão geral
 
-| Marca | Capacidade (toneladas) | Material | Formato | Valor |
-| ------ | -------- | ---------------- | ---------------------------------- | ------------ |
-| Roxell | 2,5 a 32,4 | Aço galvanizado | Cilíndrico, ponta cônica e topo arredondado | - |
-| Plasson | 2,68 a 26,06 | Aço galvanizado | Cilíndrico, ponta cônica e topo arredondado | - |
-| Nutrimec | 3,25 a 21,5 | Chapa de aço | Cilíndrico ou quadrado, ponta cônica e topo reto | - |
-| Morelatto | 0,65 a 37,6 | Aço galvanizado | Cilíndrico, ponta cônica e topo arredondado | - |
-| Big Dutchman| 2,65 a 27,69 | Aço galvanizado | Cilíndrico, ponta cônica e topo arredondado | - |
+| Marca        | Capacidade (toneladas) | Material        | Formato                                          | Valor              |
+| ------------ | ---------------------- | --------------- | ------------------------------------------------ | ------------------ |
+| Roxell       | 2,5 a 32,4             | Aço galvanizado | Cilíndrico, ponta cônica e topo arredondado      | R$6.000 a R$55.000 |
+| Plasson      | 2,68 a 26,06           | Aço galvanizado | Cilíndrico, ponta cônica e topo arredondado      | R$6.000 a R$46.000 |
+| Nutrimec     | 3,25 a 21,5            | Chapa de aço    | Cilíndrico ou quadrado, ponta cônica e topo reto | R$5.000 a R$35.000 |
+| Morelatto    | 0,65 a 37,6            | Aço galvanizado | Cilíndrico, ponta cônica e topo arredondado      | R$6.000 a R$40.000 |
+| Big Dutchman | 2,65 a 27,69           | Aço galvanizado | Cilíndrico, ponta cônica e topo arredondado      | R$8.000 a R$55.000 |
