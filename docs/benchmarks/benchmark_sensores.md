@@ -1,4 +1,4 @@
-## Sensores InoBram
+## Sensores InoBram (R$ 2.000-)
 
 **Vendedores no Brasil:**
 
@@ -30,7 +30,7 @@
 
 ---
 
-## Sensores Turck
+## Sensores Turck (R$ 6.000)
 
 **Vendedores no Brasil:**
 
@@ -64,7 +64,7 @@ Especificações no site (https://bresimar.pt/produto/sensor-de-monitorizacao-de
 
 ---
 
-## Sensores Mit Exacta
+## Sensores Mit Exacta (R$ 1.000-)
 
 **Vendedores no Brasil:**
 

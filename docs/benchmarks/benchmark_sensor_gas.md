@@ -4,6 +4,8 @@ Vendedor: White Gas Sensor (Brasil)
 Modelo: Detector fixo para Amônia (NH₃) – faixa 0-300 ppm (analógico 4-20 mA) 
 whitegas.com.br
 
+Preço: R$ 5.000 a R$ 15.000+ (estimativa)
+
 Especificações:
 
 Faixa de detecção: 0-300 ppm para amônia 
@@ -30,6 +32,8 @@ Vendedor / Marca: GasDetect (Brasil)
 Modelo: Detector de Amônia (NH₃) – sistema de detecção industrial integrado 
 
 amonia.com.br
+
+Preço:R$ 3.000 a R$ 10.000+ (estimativa)
 
 Especificações:
 
@@ -58,6 +62,9 @@ Faixa de detecção exata não tão clara publicamente
 
 Opção 3:
 https://loja.akso.com.br
+
+Preço: R$ 4.000 a R$ 8.000+
+
 Vendedor:  AK203 - Detector de Gás Amônia (NH₃) (via vendedor AKSO no Brasil)
 Especificações:
 	Detector de gás amônia NH₃ com calibração rastreável.
