@@ -1,4 +1,4 @@
-## Ventilação AirWay
+## Ventilação AirWay (R$ 15.000 a R$ 65.000)
 
 **Vendedores no Brasil:**
 
@@ -36,7 +36,7 @@
 
 ---
 
-## Ventilação Tecnoesse
+## Ventilação Tecnoesse (R$ 8.000 a R$ 25.000)
 
 **Vendedores no Brasil:**
 
@@ -68,7 +68,7 @@
 
 ---
 
-## Ventilação Matriaves
+## Ventilação Matriaves (R$ 10.000 a R$ 30.000)
 
 **Vendedores no Brasil:**
 
