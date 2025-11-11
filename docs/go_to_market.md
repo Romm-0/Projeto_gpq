@@ -1,18 +1,18 @@
 ﻿# Estratégia go to market (GTM)
 
-Mesmo que o nosso projeto não seja de um produto que será vendido por ser um guia de comprar sem fins lucrativos, ainda assim desenvolveremos uma estratégia GTM por ser um dos tópicos a serem abordados no projeto. Nem todos os tópicos serão aplicados na prática, mas caso o projeto ultrapasse o limite de ser apenas um trabalho acadêmico elas serão aplicadas como um todo.
+Mesmo que o nosso projeto não seja de um produto que será vendido por ser um guia de comprar sem fins lucrativos, ainda assim desenvolveremos uma estratégia *Go to Market* (GTM) por ser um dos tópicos a serem abordados no projeto. Nem todos os tópicos serão aplicados na prática, mas caso o projeto ultrapasse o limite de ser apenas um trabalho acadêmico elas serão aplicadas como um todo.
 
 ---
 
-## 1.Propósito
+## 1. Propósito
 
-Nosso objetivo com esse projeto é fornecer opções e soluções para projetos de galpões agrícolas automatizados juntamente com uma pré divisão de cada produto importante para automatizar com base no orçamento do produtor, sendo dividido em três categorias, pequeno, médio e grande produtor
+Nosso objetivo com esse projeto é fornecer opções e soluções para projetos de galpões agrícolas automatizados juntamente com uma pré divisão de cada produto importante para automatizar com base no orçamento do produtor, sendo dividido em três categorias, sendo elas pequeno, médio e grande produtor.
 
 ---
 
-## 2.Escopo
+## 2. Escopo
 
-A quantidade de aves foi definida com base na [Instrução normativa 59/2009](https://www.gov.br/agricultura/pt-br/assuntos/sanidade-animal-e-vegetal/saude-animal/programas-de-saude-animal/pnsa/imagens/copy3_of_INSTRUONORMATIVAN56DE4DEDEZEMBRODE2007.pdf)
+A quantidade de aves foi definida com base na [Instrução normativa 59/2009](https://www.gov.br/agricultura/pt-br/assuntos/sanidade-animal-e-vegetal/saude-animal/programas-de-saude-animal/pnsa/imagens/copy3_of_INSTRUONORMATIVAN56DE4DEDEZEMBRODE2007.pdf).
 
 Tipos de produtores:
 
@@ -48,9 +48,9 @@ Tipos de produtores:
 
 ---
 
-## 3.Proposta de valor
+## 3. Proposta de valor
 
-Por se tratar de um produto não comercial, o valor será definido como a utilidade do projeto pata aqueles que o acessarem
+Por se tratar de um produto não comercial, o valor será definido como a utilidade do projeto para aqueles que o acessarem.
 
 - Transparência dos índices e custos, sem valorizar ou desvalorizar marcas por motivos político-financeiros
 
@@ -62,9 +62,9 @@ Por se tratar de um produto não comercial, o valor será definido como a utilid
 
 ---
 
-## 4.Canais de distribuição
+## 4. Canais de distribuição
 
-Por se tratar de um produto não comercial, objetivo será gerar engajamento
+Embora o projeto não envolva comercialização, sua disseminação e visibilidade dependem de uma estratégia de distribuição eficiente.
 
 - Parcerias institucionais: cooperativas e federações de agricultura 
 
@@ -74,7 +74,7 @@ Por se tratar de um produto não comercial, objetivo será gerar engajamento
 
 ---
 
-## 5.Estratégia de engajamento
+## 5. Estratégia de engajamento
 
 - Criar versões especificas para cada região
 
@@ -86,7 +86,9 @@ Por se tratar de um produto não comercial, objetivo será gerar engajamento
 
 ---
 
-## 6.Métricas de sucesso
+## 6. Métricas de sucesso
+
+A avaliação da efetividade da estratégia GTM será baseada em indicadores qualitativos e quantitativos:
 
 - Número de acessos ao site
 
@@ -96,7 +98,10 @@ Por se tratar de um produto não comercial, objetivo será gerar engajamento
 
 ---
 
-## 7.Continuidade do projeto
+## 7. Continuidade do projeto
+
+A sustentabilidade a longo prazo depende da manutenção e evolução do conteúdo.
+Por isso, o plano de continuidade inclui:
 
 - Mantê-lo alimentado com novas informações
 
